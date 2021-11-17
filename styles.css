@@ -1,0 +1,14 @@
+@import URL('https://fonts.googleapis.com/css2? family=Playfair+Display:ital,wght@1,500&display=swap');
+body{
+ background-color: #f1f1f1;
+ color: #0f141e;
+ font-size: 15px;
+ font-weight: normal;
+ font-family: 'Roboto', sans-serif;
+}
+
+.avatar {
+    width: 200px;
+    border-radius: 28px;
+    
+}
